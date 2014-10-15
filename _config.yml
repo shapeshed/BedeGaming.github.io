@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://BedeGaming.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
+url: http://engineering.bedegaming.com
+title: Bede Engineering
+subtitle: Define, develop, test, deploy, repeat
 author: Alex Butcher
 simple_search: https://www.google.com/search
 description:
