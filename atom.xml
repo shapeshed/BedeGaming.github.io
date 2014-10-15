@@ -4,7 +4,7 @@
   <title><![CDATA[Bede Engineering]]></title>
   <link href="http://engineering.bedegaming.com/atom.xml" rel="self"/>
   <link href="http://engineering.bedegaming.com/"/>
-  <updated>2014-10-15T18:52:33+01:00</updated>
+  <updated>2014-10-15T18:55:16+01:00</updated>
   <id>http://engineering.bedegaming.com/</id>
   <author>
     <name><![CDATA[Alex Butcher]]></name>
@@ -20,7 +20,9 @@
     <id>http://engineering.bedegaming.com/blog/2014/10/15/introducing-engineering-dot-bedegaming-dot-com</id>
     <content type="html"><![CDATA[<h2>Hello World</h2>
 
-<p>A long time in the hoping, not so long in the making (thanks octopress.org!), we&rsquo;re pretty exicted to finally be able to show you engineering.bedegaming.com.  We&rsquo;ve got some great posts lined up to show you, everything from sharing some of our open source creations and write ups on how we manage our servers plus some fun things too.  Watch this space.</p>
+<p>A long time in the hoping, not so long in the making (thanks <a href="octopress.org">Octopress</a>!), we&rsquo;re pretty exicted to finally be able to show you engineering.bedegaming.com.</p>
+
+<p>We&rsquo;ve got some great posts lined up: everything from sharing our open source creations, write ups on how we manage our servers, and some fun stuff too.  Watch this space.</p>
 ]]></content>
   </entry>
   
