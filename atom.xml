@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://BedeGaming.github.io/atom.xml" rel="self"/>
-  <link href="http://BedeGaming.github.io/"/>
-  <updated>2014-10-15T18:04:13+01:00</updated>
-  <id>http://BedeGaming.github.io/</id>
+  <title><![CDATA[Bede Engineering]]></title>
+  <link href="http://engineering.bedegaming.com/atom.xml" rel="self"/>
+  <link href="http://engineering.bedegaming.com/"/>
+  <updated>2014-10-15T18:46:58+01:00</updated>
+  <id>http://engineering.bedegaming.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Alex Butcher]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Introducing engineering.bedegaming.com]]></title>
+    <link href="http://engineering.bedegaming.com/blog/2014/10/15/introducing-engineering-dot-bedegaming-dot-com/"/>
+    <updated>2014-10-15T18:13:05+01:00</updated>
+    <id>http://engineering.bedegaming.com/blog/2014/10/15/introducing-engineering-dot-bedegaming-dot-com</id>
+    <content type="html"><![CDATA[<h2>Hello World</h2>
+
+<p>A long time in the hoping, not so long in the making (thanks octopress.org!), we&rsquo;re pretty exicted to finally be able to show you engineering.bedegaming.com.  We&rsquo;ve got some great posts lined up to show you, everything from sharing some of our open source creations and write ups on how we manage our servers plus some fun things too.  Watch this space.</p>
+]]></content>
+  </entry>
   
 </feed>

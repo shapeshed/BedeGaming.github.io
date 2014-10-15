@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://BedeGaming.github.io/sitemap.xml 
+Sitemap: http://engineering.bedegaming.com/sitemap.xml 
