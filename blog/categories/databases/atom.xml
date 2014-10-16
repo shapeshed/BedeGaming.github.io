@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Bede Engineering]]></title>
-  <link href="http://engineering.bedegaming.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: databases | Bede Engineering]]></title>
+  <link href="http://engineering.bedegaming.com/blog/categories/databases/atom.xml" rel="self"/>
   <link href="http://engineering.bedegaming.com/"/>
   <updated>2014-10-16T15:27:02+01:00</updated>
   <id>http://engineering.bedegaming.com/</id>
@@ -33,17 +33,6 @@
 <p>With my <a href="http://www.infoq.com/presentations/Simple-Made-Easy-QCon-London-2012">Simple made Easy</a> hat on, and my 20/20 hindsight goggles engaged, it was short-sighted to select the easy, comfortable technology, the one that we had experience with, without understanding how the total cost of ownership (TCO) for the decision would be contained mostly in maintenance down the line, rather than the comparatively minimal initial build.</p>
 
 <p>So what else can we do? I think the main learning point has been to select technology with a stronger consideration for TCO.  A less smooth developer experience may well be preferable to more complex operational maintenance strategy. The persistence marketplace these days is awash with distributed database solutions with significantly improved cluster management and auto-healing capabilities, offering different types of storage and varying levels of consistency.  Some of them <a href="https://foundationdb.com/">even support ACID</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Introducing Bede Engineering]]></title>
-    <link href="http://engineering.bedegaming.com/blog/2014/10/15/introducing-engineering-dot-bedegaming-dot-com/"/>
-    <updated>2014-10-15T18:13:05+01:00</updated>
-    <id>http://engineering.bedegaming.com/blog/2014/10/15/introducing-engineering-dot-bedegaming-dot-com</id>
-    <content type="html"><![CDATA[<p>A long time in the hoping, not so long in the making (thanks to <a href="octopress.org">Octopress</a> and <a href="https://github.com/wallace/justin-kelly-theme">Justin Kelly&rsquo;s Theme</a>), we&rsquo;re pretty excited to finally be able to show you our new engineering microsite.</p>
-
-<p>We&rsquo;ve got some great posts lined up: everything from write ups on how we manage our army of servers to our approach to continuous delivery. In the meantime, you can browse some of our open source software using the links on the right.</p>
 ]]></content>
   </entry>
   
