@@ -34,7 +34,7 @@ __Example__
 
 As a real world reminder - here is an recent example from our own boards. You can see that we are building up a bottleneck on QA process. We've already gone through reviewing the underlying causes. We're tackling this area before re-assessing our next bottleneck.
 
-{% img left /images/QA-bottleneck-example.png 500 750 'image' 'images' %}
+{% img center /images/QA-bottleneck-example.png 500 750 'image' 'images' %}
 
 ##Conclusion
 Where is your bottleneck? Who is your Brent? Find them and improve them first, because all other improvements are irrelevant!
