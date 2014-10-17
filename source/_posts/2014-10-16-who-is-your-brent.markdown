@@ -4,7 +4,7 @@ title: "Who is your Brent?"
 date: 2014-10-16 18:19:00 +0100
 comments: true
 author: Paul Devenney
-categories: commentry books Phoenix Process
+categories: commentary books Phoenix Process
 ---
 In the book [The Phoenix Project](http://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/ref=sr_1_1?s=books&ie=UTF8&qid=1413480244&sr=1-1&keywords=the+phoenix+project) one of the primary foils of the "hero" is a guy named Brent. Brent is critical to successful work. Production incident? Call Brent. Complex database query? Brent's your guy. Tracing down network packet drops? Brent is already on it.  On the face of it, he is what every ops team wants twenty of, but as the book shows it is easy to become so critically dependent on one person that they become a bottleneck for the organisation. Also, Brent has several bad habits. He drops everything he's doing to sort out what ever is being screamed about loudest, regardless of its actual priority. He's also a knowledge silo - because Brent built half the complex systems in the business, he knows how to solve tricky problems with them all, but all the knowledge is in his head, to the point where most of the rest of the team won't touch those areas. Why would they? Brent can solve the issue in a tenth of the time, and more safely.
 
@@ -26,12 +26,15 @@ In the software development world, your "work stations" are things like requirem
 
 Basically - because WIP is so bad, anything that does not stop WIP building up at one cost centre is not really reducing the overall turnaround time for work from inception to successful production. You should _only_ focus on improving the bottleneck. When that is no longer the bottleneck, look to the next one.
 
-Identifying your Bottleneck
+##Identifying your Bottleneck
 It's actually quite easy to do. Draw a diagram with a box for each process you have from requirements through to in production (generally a straight flow diagram). For each, identify whether they generally have a queue of items from the previous step. Now go from right to left until you find the first item that has a queue. That is your bottle neck. 
 
 __Example__
 > The average queue of stories in the backlog awaiting development work is about 15 items. The average number of stories awaiting QA is 5. The "quick" answer is to say that clearly the biggest problem is in development - they are coping least well! But think what would happen if you improved that part of the process. QA already has a queue of work - it would only get bigger. There is no point in resolving how much work development can process until QA is no longer the bottleneck.
 
+As a painful real world reminder - here is an recent example from our own boards. You can see that we are building up a bottleneck on QA process. We've already gone through reviewing the underlying causes. We're tackling this area before re-assessing our next bottleneck.
+
+{% img left /images/QA-bottleneck-example.png 500 750 'image' 'images' %}
 
 ##Conclusion
 Where is your bottleneck? Who is your Brent? Find them and improve them first, because all other improvements are irrelevant!
