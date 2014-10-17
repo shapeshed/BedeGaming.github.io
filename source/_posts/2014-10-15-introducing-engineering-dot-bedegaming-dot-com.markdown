@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Introducing engineering.bedegaming.com"
+title: "Introducing Bede Engineering"
 date: 2014-10-15 18:13:05 +0100
 comments: true
 author: Alex Butcher
 ---
 
-Hello World
----
+A long time in the hoping, not so long in the making (thanks to [Octopress](octopress.org) and [Justin Kelly's Theme](https://github.com/wallace/justin-kelly-theme)), we're pretty excited to finally be able to show you our new engineering microsite.
 
-A long time in the hoping, not so long in the making (thanks octopress.org!), we're pretty exicted to finally be able to show you engineering.bedegaming.com.  We've got some great posts lined up to show you, everything from sharing some of our open source creations and write ups on how we manage our servers plus some fun things too.  Watch this space.
+We've got some great posts lined up: everything from write ups on how we manage our army of servers to our approach to continuous delivery. In the meantime, you can browse some of our open source software using the links on the right.
