@@ -32,7 +32,7 @@ It's actually quite easy to do. Draw a diagram with a box for each process you h
 __Example__
 > The average queue of stories in the backlog awaiting development work is about 15 items. The average number of stories awaiting QA is 5. The "quick" answer is to say that clearly the biggest problem is in development - they are coping least well! But think what would happen if you improved that part of the process. QA already has a queue of work - it would only get bigger. There is no point in resolving how much work development can process until QA is no longer the bottleneck.
 
-As a painful real world reminder - here is an recent example from our own boards. You can see that we are building up a bottleneck on QA process. We've already gone through reviewing the underlying causes. We're tackling this area before re-assessing our next bottleneck.
+As a real world reminder - here is an recent example from our own boards. You can see that we are building up a bottleneck on QA process. We've already gone through reviewing the underlying causes. We're tackling this area before re-assessing our next bottleneck.
 
 {% img left /images/QA-bottleneck-example.png 500 750 'image' 'images' %}
 
