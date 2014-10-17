@@ -7,7 +7,7 @@ author: Alex Butcher
 categories: foundationdb acid databases
 ---
 You're probably already familiar with the 80-20 rule, less catchily known as the [pareto principle](http://en.wikipedia.org/wiki/Pareto_principle) - the idea that you spend about 20% of the time it takes to complete a project building out the first 80% of the features, with the remaining 80% of the duration to complete the elusive final 20%.  There are countless applications of this idea - kind of like when you’ve just learnt a new word, examples start to crop up everywhere.  The most recent example I’ve come across describes the amount of time spent working with persistence technologies from the point of view of developers and operations.  But first some background.
-
+ <!-- more -->
 In the days of working on back office software, if there wasn’t a strong opinion already about how to solve a problem, developers were free to pick tools that met their basic checklist - will it work in production? Will the project cover the costs if they exist? And most importantly, HOW SHINY IS IT?
 
 I’m as guilty as the next developer of having picked tools to work with based primarily on how much I wanted to play with them.  Being an easy tool to code with use generally made my life as a developer easier, but it was also an easy sell to management - if it takes me, the expensive developer, less time to build a solution with, it must be good for the project.  Of course, over time, lots of counter examples have cropped up: just throw “rails performance bottleneck” or “entity framework SQL fail” into google and read to learn what happens when developer magic sauce is spread liberally and allowed to determine the architecture.  
