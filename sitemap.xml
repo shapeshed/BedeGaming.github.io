@@ -3,6 +3,14 @@
   
   
   <url>
+    <loc>http://engineering.bedegaming.com/blog/2014/10/16/who-is-your-brent/</loc>
+    
+    <lastmod>2014-10-16T18:19:00+01:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://engineering.bedegaming.com/blog/2014/10/16/the-dev-ops-80-20-rule-for-selecting-a-database/</loc>
     
     <lastmod>2014-10-16T15:23:57+01:00</lastmod>
@@ -21,21 +29,21 @@
   
   <url>
     <loc>http://engineering.bedegaming.com/blog/archives/</loc>
-    <lastmod>2014-10-16T15:27:02+01:00</lastmod>
+    <lastmod>2014-10-17T12:34:07+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://engineering.bedegaming.com/blog/</loc>
-    <lastmod>2014-10-16T15:27:02+01:00</lastmod>
+    <lastmod>2014-10-17T12:34:07+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://engineering.bedegaming.com/</loc>
-    <lastmod>2014-10-16T15:27:02+01:00</lastmod>
+    <lastmod>2014-10-17T12:34:07+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
