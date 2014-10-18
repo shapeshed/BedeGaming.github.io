@@ -34,6 +34,7 @@ plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
 markdown: rdiscount
+include: ["googled2e6b1aedb68ea43.html"]  # Google webmaster verification asset
 rdiscount:
   extensions:
     - autolink
