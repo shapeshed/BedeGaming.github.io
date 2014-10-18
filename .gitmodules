@@ -1,0 +1,4 @@
+[submodule "justin-kelly-theme"]
+ url = https://github.com/wallace/justin-kelly-theme.git
+ path = .themes/justin-kelly-theme
+
